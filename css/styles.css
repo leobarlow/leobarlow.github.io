@@ -42,7 +42,7 @@ header nav a:hover {
 }
 
 header nav .selected {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 main {
@@ -70,7 +70,7 @@ footer nav a img {
 }
 
 footer nav a img:hover {
-  border-bottom: 1px solid black;
+  padding: 0.5px;
 }
 
 #about {
@@ -88,7 +88,6 @@ footer nav a img:hover {
   width: 90%;
   max-width: 200px;
   border-radius: 50%;
-  margin-top: 1em;
 }
 
 ul {
