@@ -87,7 +87,7 @@ footer nav a img:hover {
 #profile {
   width: 90%;
   max-width: 200px;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 
 #gallery-thumbs {
