@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  max-width: 500px;
+  max-width: 512px;
   margin: 0 auto;
   padding: 0 1rem;
   background-color: rgb(242, 244, 239);
@@ -118,4 +118,9 @@ footer nav a img:hover {
 
 #gallery-focused {
   width: 100%;
+}
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
 }
